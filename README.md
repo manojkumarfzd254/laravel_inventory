@@ -1,7 +1,4 @@
-# laravel-adminpanel
-[![GitHub forks](https://img.shields.io/github/forks/lbmadesia/laravel-adminpanel.svg?style=plastic)](https://github.com/lbmadesia/laravel-adminpanel/network)
-[![GitHub issues](https://img.shields.io/github/issues/lbmadesia/laravel-adminpanel.svg?style=plastic)](https://github.com/lbmadesia/laravel-adminpanel/issues)
-![StyleCI](https://img.shields.io/badge/styleCI-passed-brightgreen.svg?style=plastic)
+
 
 
 ## Introduction
@@ -24,7 +21,7 @@ For Laravel 8 Boilerplate Features : [Features](https://github.com/rappasoft/lar
 *  auto database backup
 * Two Factor Authentication
 
-Give your project a Head Start by using [laravel-adminpanel](https://github.com/lbmadesia/laravel-adminpanel).
+Give your project a Head Start by using [laravel-inventory](https://github.com/manojkumarfzd254/laravel-adminpanel).
 
 ## Built-in Laravel Boilerplate Module Generator
 It gives you the ability to create a module using a sweet GUI, where you put in the Module Name and it will generate all the necessary files for you, like Model, Traits, Relationship, Migration, Controllers, Views and routes. So when you are done creating a module, you can directly go to the route generated and see your new module. Since, this does not have the ability to generate table fields for now, so you have to write the migration file that is generated and run a manual php artisan migrate command, and you are good to go.
@@ -38,7 +35,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/lbmadesia/laravel-adminpanel.git
+    git clone https://github.com/manojkumarfzd254/laravel-adminpanel.git
 
 Switch to the repo folder
 
@@ -100,7 +97,7 @@ You can now access the server at http://localhost:8000
 
 **Command list**
 
-    git clone https://github.com/lbmadesia/laravel-adminpanel.git
+    git clone https://github.com/manojkumarfzd254/laravel-adminpanel.git
     cd laravel-adminpanel
     cp .env.example .env
     composer install
@@ -147,7 +144,7 @@ Password: `1234`
 
 ## Issues
 
-If you come across any issues please report them [here](https://github.com/lbmadesia/laravel-adminpanel/issues).
+If you come across any issues please report them [here](https://github.com/manojkumarfzd254/laravel-adminpanel/issues).
 
 ## Contributing
 Feel free to create any pull requests for the project. For proposing any new changes or features you want to add to the project, you can send us an email at following addresses.
